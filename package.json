@@ -1,13 +1,17 @@
 {
-  "name": "upserver",
+  "name": "serverup-example",
   "version": "1.0.0",
   "description": "An example of a Bot that runs on the Microsoft Bot framework and Botsociety",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Vittorio erlapso Banfi",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:botsociety/serverup-example.git"
+  },
   "dependencies": {
     "botbuilder": "^3.14.0",
     "botsociety": "^1.1.0",
